@@ -1,0 +1,26 @@
+{
+    "preferences": [
+    {
+    "type": "bool",
+    "name": "urlbarTarget",
+    "value": true,
+    "description": "Switch to opened tab",
+    "title": "Url Bar"
+    },
+    {
+    "type": "bool",
+    "name": "searchbarTarget",
+    "value": true,
+    "description": "Switch to opened tab",
+    "title": "Search Bar"
+    }
+    ],
+    
+  "name": "cmdenter",
+  "title": "cmdEnter",
+  "id": "cmdEnterHsinTw",
+  "description": "Let Mac user can press[ cmd + Enter ] to open url in a new tab",
+  "author": "Feng Hsin Chiao",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
